@@ -1,0 +1,48 @@
+/* Global Properties */
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background: #252525;
+    font-family: "Baloo Tamma 2", cursive;
+  }
+  
+  /* Main Heading Font */
+  .m-heading {
+    font-family: "Roboto Slab", serif;
+  }
+  
+  /* Navigation */
+  .navigation-link {
+    border: 2px solid transparent;
+  }
+  
+  .navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #f5ba09;
+    transition: 0.5s ease;
+  }
+  
+  
+  
+  .text-white{
+      color: white;
+  }
+  /*end of navigation styling*/
+  
+  
+  /* About Section */
+.about {
+  background: #313552;
+  border-radius: 0.5rem;
+}
+
+.card {
+  border-bottom: 8px solid #f5ba09;
+}
+  
+  
+  
+  
+  
